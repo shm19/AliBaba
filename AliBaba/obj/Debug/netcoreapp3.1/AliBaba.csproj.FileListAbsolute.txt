@@ -1,0 +1,14 @@
+C:\Users\AmirYousfH\source\repos\AliBaba\AliBaba\bin\Debug\netcoreapp3.1\AliBaba.exe
+C:\Users\AmirYousfH\source\repos\AliBaba\AliBaba\bin\Debug\netcoreapp3.1\AliBaba.deps.json
+C:\Users\AmirYousfH\source\repos\AliBaba\AliBaba\bin\Debug\netcoreapp3.1\AliBaba.runtimeconfig.json
+C:\Users\AmirYousfH\source\repos\AliBaba\AliBaba\bin\Debug\netcoreapp3.1\AliBaba.runtimeconfig.dev.json
+C:\Users\AmirYousfH\source\repos\AliBaba\AliBaba\bin\Debug\netcoreapp3.1\AliBaba.dll
+C:\Users\AmirYousfH\source\repos\AliBaba\AliBaba\bin\Debug\netcoreapp3.1\AliBaba.pdb
+C:\Users\AmirYousfH\source\repos\AliBaba\AliBaba\obj\Debug\netcoreapp3.1\AliBaba.csproj.AssemblyReference.cache
+C:\Users\AmirYousfH\source\repos\AliBaba\AliBaba\obj\Debug\netcoreapp3.1\AliBaba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmirYousfH\source\repos\AliBaba\AliBaba\obj\Debug\netcoreapp3.1\AliBaba.AssemblyInfoInputs.cache
+C:\Users\AmirYousfH\source\repos\AliBaba\AliBaba\obj\Debug\netcoreapp3.1\AliBaba.AssemblyInfo.cs
+C:\Users\AmirYousfH\source\repos\AliBaba\AliBaba\obj\Debug\netcoreapp3.1\AliBaba.csproj.CoreCompileInputs.cache
+C:\Users\AmirYousfH\source\repos\AliBaba\AliBaba\obj\Debug\netcoreapp3.1\AliBaba.dll
+C:\Users\AmirYousfH\source\repos\AliBaba\AliBaba\obj\Debug\netcoreapp3.1\AliBaba.pdb
+C:\Users\AmirYousfH\source\repos\AliBaba\AliBaba\obj\Debug\netcoreapp3.1\AliBaba.genruntimeconfig.cache
